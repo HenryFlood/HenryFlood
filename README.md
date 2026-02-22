@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-My website: []
-
-Contact: henryrflood@gmail.com
+🌐 My website: []<br>
+✉️ Contact: henryrflood@gmail.com
